@@ -21,7 +21,7 @@ package medal;
 /**
  * {@link SportMedalComputer} - see task.
  * 
- * @author   (your name(s)) 
+ * @author   (Noa, Justus) 
  * @version  (a version number or a date)
  */
 public class SportMedalComputer {
